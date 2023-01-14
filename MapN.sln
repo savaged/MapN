@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapN", "MapN\MapN.csproj", "{BBA245BF-AF52-4BCA-98D7-31173E27BD31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapNTests", "MapNTests\MapNTests.csproj", "{040045A7-7B23-4A11-B8E5-6A927DD46E97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA245BF-AF52-4BCA-98D7-31173E27BD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA245BF-AF52-4BCA-98D7-31173E27BD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA245BF-AF52-4BCA-98D7-31173E27BD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA245BF-AF52-4BCA-98D7-31173E27BD31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040045A7-7B23-4A11-B8E5-6A927DD46E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040045A7-7B23-4A11-B8E5-6A927DD46E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040045A7-7B23-4A11-B8E5-6A927DD46E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040045A7-7B23-4A11-B8E5-6A927DD46E97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
